@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ASP .Net Core**
 
-- 👨‍💻 All of my projects are available at [SanjatulHasanSiam](SanjatulHasanSiam)
+- 👨‍💻 All of my projects are available at [https://github.com/SanjatulHasanSiam](https://github.com/SanjatulHasanSiam)
 
 - 💬 Ask me about **PHP, Java, C#**
 
