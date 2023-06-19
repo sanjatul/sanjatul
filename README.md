@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjatulhasansiam" alt="sanjatulhasansiam" /></a> </p>
 
-- 🔭 I’m currently working on [Bookish](https://github.com/SanjatulHasanSiam/Bookish.git)
 
 - 🌱 I’m currently learning **ASP .Net Core**
 
