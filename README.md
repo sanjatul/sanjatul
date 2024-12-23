@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjatul&label=Profile%20views&color=0e75b6&style=flat" alt="sanjatul" /> </p>
 
-- 🔭 I’m currently working on **Maseleap Plc as an Software Engineer**
+- 🔭 I’m currently working on **Masleap Plc as an Software Engineer**
 
 - 🌱 I’m expertise in on  **Asp .Net Core, Blazor, React & Next.js**
 
