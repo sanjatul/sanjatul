@@ -1,28 +1,130 @@
-<h1 align="center">Hi 👋, I'm Sanjatul Hasan Siam</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
+ <h1 align="center">Hi, I'm Sanjatul Hasan Siam 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjatul&label=Profile%20views&color=0e75b6&style=flat" alt="sanjatul" /> </p>
+<h3 align="center">Software Engineer | Full-Stack Developer | Web Performance Enthusiast</h3>
 
-- 🔭 I’m currently working on **Lemon Hive as a Software Engineer**
-
-- 🌱 I’m expertise in on  **Asp .Net Core, Blazor, React & Next.js**
-
-- 👯 I’m looking to collaborate on **Asp .Net and Next.js**
-
-- 💬 Ask me about **Asp .Net Core, React, Next.js**
-
-- 📫 How to reach me **sanjatulhasansiam.iit@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjatulsiam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjatulsiam/" height="30" width="40" /></a>
+<p align="center">
+  Building scalable, performant, and user-focused web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjatulsiam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanjatulhasansiam.iit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sanjatul&style=flat-square&color=71717A&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjatul&show_icons=true&locale=en&layout=compact" alt="sanjatul" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjatul&show_icons=true&locale=en" alt="sanjatul" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjatul&" alt="sanjatul" /></p>
+I'm a Software Engineer at **Lemon Hive**, based in Bangladesh, passionate about engineering modern web applications and solving real-world software problems.
+
+My experience spans backend development, frontend engineering, CMS-driven platforms, and web performance optimization. I enjoy working across the stack, understanding how systems work together, and turning complex requirements into maintainable solutions.
+
+- 💼 Software Engineer at **Lemon Hive**
+- ⚙️ Building applications with **ASP.NET Core, React, Next.js, and Sitefinity CMS**
+- 🚀 Interested in web performance, accessibility, scalable architecture, and clean code
+- 🧩 Experienced in enterprise CMS implementations, content migrations, and API-driven applications
+- 🌱 Continuously exploring AI, Data Science, and modern software engineering practices
+- 🤝 Open to collaborating on meaningful software engineering projects
+
+---
+
+### 🛠️ Technical Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Backend Development & CMS</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,php,python" alt="Backend technologies"/>
+      </p>
+      <ul>
+        <li>ASP.NET Core & C#</li>
+        <li>RESTful APIs</li>
+        <li>Entity Framework Core</li>
+        <li>Sitefinity CMS</li>
+        <li>Contentful CMS</li>
+        <li>Sanity CMS</li>
+        <li>Payload CMS</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Frontend Development</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" alt="Frontend technologies"/>
+      </p>
+      <ul>
+        <li>React & Next.js</li>
+        <li>TypeScript & JavaScript</li>
+        <li>Responsive UI Development</li>
+        <li>Accessibility & Web Performance</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Databases</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=sqlserver,mongodb,mysql" alt="Database technologies"/>
+      </p>
+      <ul>
+        <li>SQL Server & MongoDB</li>
+        <li>MySQL</li>
+        <li>Database Design & Optimization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Tools & Engineering</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" alt="Development tools"/>
+      </p>
+      <ul>
+        <li>Git & GitHub</li>
+        <li>Visual Studio & VS Code</li>
+        <li>API Integration & Testing</li>
+        <li>Performance Optimization</li>
+        <li>Build Tools & Asset Optimization</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏗️ Engineering Interests
+
+Things I enjoy working on and exploring:
+
+- **Scalable Web Applications:** Designing maintainable backend services and frontend architectures.
+- **Enterprise CMS:** Building content-driven experiences, custom components, and efficient content management workflows.
+- **Web Performance:** Improving Core Web Vitals, LCP, FCP, TBT, and reducing unnecessary assets.
+- **Accessibility:** Developing inclusive interfaces with WCAG principles in mind.
+- **Modern Web Technologies:** Exploring Next.js, React, ASP.NET Core, and evolving development ecosystems.
+- **AI & Data Science:** Building foundations for my longer-term journey into intelligent applications and data-driven systems.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjatul&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjatul&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjatul&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjatulsiam/">Let's connect and build something meaningful.</a>
+</p>
