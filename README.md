@@ -111,11 +111,6 @@ Things I enjoy working on and exploring:
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjatul&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjatul&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjatul&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
 </p>
 
